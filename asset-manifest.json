@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/organik/static/css/main.6013e999.css",
+    "main.js": "/organik/static/js/main.3d3675dd.js",
+    "index.html": "/organik/index.html",
+    "main.6013e999.css.map": "/organik/static/css/main.6013e999.css.map",
+    "main.3d3675dd.js.map": "/organik/static/js/main.3d3675dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6013e999.css",
+    "static/js/main.3d3675dd.js"
+  ]
+}
